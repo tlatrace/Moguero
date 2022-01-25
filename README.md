@@ -46,7 +46,7 @@
   
 ---
 
-- 🎨 I’m currently working on an AI project for a painter (more [here](https://github.com/Moguero/AI-and-painting)).
+- 🎨 I’m currently working on an AI project for a painter (ping me for getting access [here](https://github.com/Moguero/AI-and-painting)).
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/) and [Dask](https://dask.org/) for parallel computing.
 <!-- - ⚡ Fun fact : I used to think I would never work in IT ! -->
 
