@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Thibault, a passionate data engineer from France. 👋</h1>
+<h1 align="center">Hi there 👋 I'm Thibault, a passionate data engineer from France</h1>
 
 <h3 align="center">Data Science - ML/DL</h3>
 
